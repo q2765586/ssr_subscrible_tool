@@ -1,19 +1,19 @@
 #自用节点
 
-#搬瓦工 老爷车
+#搬瓦工老爷车
 trojan://akb48@bwg.4810086.xyz:10256
 
-#甲骨文 免费鸡,随时GG
+#甲骨文免费鸡,随时GG
 trojan://xr2765586@iiceoa.xyz:443#%E7%94%B2%E9%AA%A8%E6%96%872
 
-#谷歌云 就快over了
+#谷歌云就快over了
 trojan://xr2765586@yy402313286.xyz:443#%E8%B0%B7%E6%AD%8C2
 
-#毛子鸡 限80G
+#毛子鸡限80G
 trojan://siri@mzj.yy402313286.xyz:443
 
-#IBM 免费老爷车v2ray
+#IBM免费老爷车v2ray
 vmess://ICAgIHsKICAgICAgInYiOiAiMiIsCiAgICAgICJwcyI6ICJpYm15ZXMiLAogICAgICAiYWRkIjogImlibXllcy51cy1zb3V0aC5jZi5hcHBkb21haW4uY2xvdWQiLAogICAgICAicG9ydCI6ICI0NDMiLAogICAgICAiaWQiOiAiZGNjMzBkNGQtMjZhOC00ODYzLTkyZjEtMjNjZDM4ZGEzZWQ3IiwKICAgICAgImFpZCI6ICI0IiwKICAgICAgIm5ldCI6ICJ3cyIsCiAgICAgICJ0eXBlIjogIm5vbmUiLAogICAgICAiaG9zdCI6ICIiLAogICAgICAicGF0aCI6ICJrRTdBRXpUQ1RzMnZmbFJtIiwKICAgICAgInRscyI6ICJ0bHMiCiAgICB9Cg==
 
-#heroku 免费老爷车v2ray
+#heroku免费老爷车v2ray
 vmess://YXV0bzo2NWYxMWJlNS1hYzcxLTRmMGMtODc0Yi1kOTNjNjEwYzY2ZWZAYWxsaW5iZTIuaGVyb2t1YXBwLmNvbTo0NDM?remarks=heroku-allinbe2&obfs=websocket&tls=1
